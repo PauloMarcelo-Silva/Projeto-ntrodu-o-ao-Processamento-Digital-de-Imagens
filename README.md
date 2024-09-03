@@ -26,10 +26,4 @@ Este projeto foi desenvolvido como parte de uma atividade acadêmica que visa im
 - Desenvolver um sistema que funcione de forma autônoma, sem depender de bibliotecas externas específicas de processamento de imagens.
 - Realizar análises sobre o impacto de diferentes filtros no processamento de imagens.
 
-## Como Usar
-
-1. **Clonar o repositório** e compilar/executar o código em um ambiente de sua escolha.
-2. **Modificar o arquivo de configuração** para ajustar os filtros e offsets conforme desejado.
-3. **Executar o sistema** para carregar e processar imagens RGB, salvando os resultados para análise posterior.
-
 ---
