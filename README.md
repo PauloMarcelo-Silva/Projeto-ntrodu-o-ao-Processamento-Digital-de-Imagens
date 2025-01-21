@@ -1,4 +1,4 @@
-# Projeto-ntrodu-o-ao-Processamento-Digital-de-Imagens
+# Projeto de introducao e processamento digital de imagens
 
 # Projeto de Processamento de Imagens RGB
 
